@@ -16,7 +16,7 @@ Tecnologias Utilizadas
 - [qrcode](https://pypi.org/project/qrcode/)
 - [Pillow](https://pypi.org/project/Pillow/)
 
-Muito sinples para rodar o projeto:
+Muito simples para rodar o projeto:
 
  Clone o repositório:
    ```bash
